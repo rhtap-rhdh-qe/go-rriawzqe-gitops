@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-rriawzqe-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/go-rriawzqe
